@@ -1,0 +1,4 @@
+# Example cone file for data/cap.obj
+# <vertex index (0-based)> <prescribed curvature in degrees>
+# The apex vertex becomes a cone of angle 270 degrees (curvature +90).
+0 90
